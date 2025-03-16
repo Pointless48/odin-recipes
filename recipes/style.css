@@ -1,0 +1,13 @@
+*{
+    font-family: "times new roman",serif;
+}
+
+h1, .ingredients {
+    text-align: center;
+    font-size: 50px;
+}
+
+.ingredients {
+    font-size: 40px;
+    color: green;
+}
