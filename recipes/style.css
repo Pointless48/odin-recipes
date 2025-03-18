@@ -2,18 +2,30 @@
     font-family: Garamond,serif;
     text-align: center;
     list-style-position: inside;
-    background-color:rgb(194, 194, 82) ;
+    
     font-size: 20px;
 }
 
-h1, .ingredients {
+.chili {
+    background-color:rgb(194, 194, 82);
+}
+
+.grilled {
+    background-color: darkorange
+}
+
+.pancake {
+    background-color: aquamarine;
+}
+
+h1{
     
     font-size: 50px;
 }
 
-.ingredients {
-    font-size: 40px;
-    color: green;
+h2 {
+    font-size: 30px;
+    
 }
 
 img,.grill_pic {
@@ -22,13 +34,14 @@ img,.grill_pic {
     
 }
 
-.intro {
-      background-color: rgb(91, 91, 174);
-    color: white;
-}
+
 
 h4,.side {
     text-align: left;
     color: brown;
     font-size: 20px;
+}
+
+.optional {
+    text-align: center;
 }
